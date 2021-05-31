@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/stream-chat-clojure.iml" filepath="$PROJECT_DIR$/stream-chat-clojure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-chat-clojure-example.iml" filepath="$PROJECT_DIR$/stream-chat-clojure-example.iml" />
     </modules>
   </component>
 </project>

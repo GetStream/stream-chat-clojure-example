@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: io.getstream/stream-chat-java:0.0.1-BETA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/getstream/stream-chat-java/0.0.1-BETA/stream-chat-java-0.0.1-BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

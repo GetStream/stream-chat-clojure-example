@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module cursive.leiningen.project.LeiningenProjectsManager.displayName="stream-chat-clojure:0.1.0-SNAPSHOT" cursive.leiningen.project.LeiningenProjectsManager.isLeinModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: clojure-complete:0.2.5" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core/jackson-annotations:2.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core/jackson-core:2.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core/jackson-databind:2.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: com.intellij/annotations:12.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.squareup.okhttp3/okhttp:3.14.9" level="project" />
+    <orderEntry type="library" name="Leiningen: com.squareup.okio/okio:1.17.2" level="project" />
+    <orderEntry type="library" name="Leiningen: com.squareup.retrofit2/converter-jackson:2.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.squareup.retrofit2/retrofit:2.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: io.getstream/stream-chat-java:0.0.1-BETA" level="project" />
+    <orderEntry type="library" name="Leiningen: io.jsonwebtoken/jjwt-api:0.11.2" level="project" />
+    <orderEntry type="library" name="Leiningen: io.jsonwebtoken/jjwt-impl:0.11.2" level="project" />
+    <orderEntry type="library" name="Leiningen: io.jsonwebtoken/jjwt-jackson:0.11.2" level="project" />
+    <orderEntry type="library" name="Leiningen: nrepl:0.6.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.specs.alpha:0.2.44" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/spec.alpha:0.2.176" level="project" />
+  </component>
+</module>
